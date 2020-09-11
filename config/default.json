@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb+srv://adarsha:adarsha@cluster0.mlslp.mongodb.net/devconnector?retryWrites=true&w=majority"
+}
